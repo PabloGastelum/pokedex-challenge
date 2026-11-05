@@ -1,0 +1,1 @@
+export { PokemonTypeName } from './PokemonTypeName';

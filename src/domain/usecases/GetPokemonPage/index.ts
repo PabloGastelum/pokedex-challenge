@@ -1,0 +1,1 @@
+export { GetPokemonPage } from './GetPokemonPage';

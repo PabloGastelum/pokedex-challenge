@@ -1,0 +1,1 @@
+export { GetPokemonDetail } from './GetPokemonDetail';
