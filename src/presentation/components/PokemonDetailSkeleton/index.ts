@@ -1,0 +1,1 @@
+export { PokemonDetailSkeleton } from './PokemonDetailSkeleton';
